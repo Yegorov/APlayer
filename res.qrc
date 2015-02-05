@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/back.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/info.png</file>
+        <file>images/Headphones.png</file>
+        <file>images/continue_256.png</file>
+        <file>images/pause_256.png</file>
+        <file>images/stop_256.png</file>
+        <file>images/Headphones_256.png</file>
+        <file>images/buttons/next1.png</file>
+        <file>images/buttons/pause1.png</file>
+        <file>images/buttons/play1.png</file>
+        <file>images/buttons/prev1.png</file>
+        <file>images/buttons/stop1.png</file>
+    </qresource>
+</RCC>
